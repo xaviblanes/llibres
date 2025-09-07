@@ -1,0 +1,77 @@
+*********
+PXSI-1bat
+*********
+
+Bloc 1: Programació. 
+- Representació de problemes mitjançant el modelatge de la realitat.
+- Abstracció, seqüenciació, algorítmica. Detecció i generalització de patrons.
+- Sostenibilitat i inclusió com a requisits del disseny del programari.
+- Llenguatges de programació. Paradigmes de programació.
+- Objectes i esdeveniments.
+- Llenguatges compilats i interpretats.
+- Identificació dels elements d'un programa informàtic. Constants i variables, tipus i estructures de dades, operacions, operadors
+i conversions, expressions, estructures de control, funcions i procediments.
+- Operacions bàsiques amb bases de dades. Consultes, insercions i modificació.
+- Fases del cicle de vida d'una aplicació: anàlisi, disseny, codificació, proves, documentació, explotació i manteniment,
+entre altres.
+- Instal·lació i ús d'entorns de desenvolupament. Funcionalitats.
+- Eines de depuració i validació de programari. 
+- Optimització i manteniment de programari. 
+- Documentació tècnica associada al desenvolupament del programari.
+- Propietat intel·lectual. Tipus de drets, durada, límits als drets d'autoria i llicències de distribució i explotació.
+- Importància de la computació en el desenvolupament igualitari de la societat. Biaixos en els algorismes.
+- La indústria del desenvolupament del programari. Producció i consum de programari. Biaixos de gènere.
+- Implicacions ètiques del Big Data i la Intel·ligència Artificial.
+- Comunitats de desenvolupament de programari lliure.
+
+Bloc 2: Sistemes informàtics.
+- Unitats de mesura. Sistemes de representació digital de la informació.
+- Arquitectura i disseny d'un ordinador. Elements, components físics i les seues característiques.
+- Criteris de selecció dels components d'un ordinador. Muntatge d'ordinadors. Simuladors de maquinari. Configuració de components.
+- Interacció dels components de l'equip informàtic en el seu funcionament. Prestacions i rendiment.
+- Dispositius mòbils i les seues característiques.
+- Sistemes operatius per a ordinadors personals i dispositius mòbils.
+- Sistemes operatius per a servidors.
+- Instal·lació, configuració i administració de sistemes operatius. 
+- Sistemes operatius sobre màquines virtuals.
+- Instal·lació, configuració i administració d'aplicacions. 
+- Eines de monitoratge. 
+- Estratègies per a la prevenció, detecció i solució de problemes en equips informàtics.
+- Implicacions de l'ús dels dispositius digitals sobre el benestar digital, la salut, la sostenibilitat i el medi ambient.
+
+Bloc 3: Xarxes.
+- Orígens i evolució de les xarxes. Internet.
+- Tipus de xarxes. 
+- Models i protocols de comunicació. 
+- Dispositius de xarxa i mitjans de transmissió.
+- Adreçament físic i lògic. 
+- Disseny, instal·lació i configuració de xarxes. Simuladors. 
+- Seguretat en xarxes cablejades i sense fils. Xifratge i encriptació.
+- Configuració bàsica d'encaminadors. 
+- Configuració i administració d'encaminadors. 
+- Interconnexió de sistemes i Internet de les coses. 
+- Eines de monitoratge i gestió de xarxes. 
+- Detecció i solució de problemes en xarxes. 
+- Estratègies per a la prevenció de problemes tècnics. 
+- Documentació tècnica del disseny i explotació d'una xarxa. 
+
+Bloc 4: Serveis en xarxa.
+- Espai compartit de disc en una xarxa. 
+- Ús adequat d'un servidor web. 
+- Instal·lació i configuració bàsica d'un servidor web. 
+- Personalització servidor web. 
+- Instal·lació i configuració bàsica d'un gestor de continguts. 
+- Configuració i instal·lació de complements d'un gestor de continguts.
+- Servidors web i sistemes gestors de continguts com a eines de publicació i col·laboració en línia respectuoses.
+- Instal·lació i configuració d'un gestor de bases de dades en local.
+- Instal·lació i configuració d'un gestor de bases de dades en xarxa.
+- Ús i manteniment de bases de dades. 
+- Servidor de correu electrònic. Protocols d'intercanvi de missatges.
+- Certificat i signatura digital. 
+- Gestió de la identitat digital. L'empremta digital. 
+- Estratègies per a una ciberconvivència igualitària, segura i
+saludable. Etiqueta digital.
+- La privacitat en la xarxa. La protecció de les dades de caràcter
+personal. Informació i consentiment.
+
+
