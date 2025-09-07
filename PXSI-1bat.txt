@@ -9,11 +9,9 @@ Bloc 1: Programació.
 - Llenguatges de programació. Paradigmes de programació.
 - Objectes i esdeveniments.
 - Llenguatges compilats i interpretats.
-- Identificació dels elements d'un programa informàtic. Constants i variables, tipus i estructures de dades, operacions, operadors
-i conversions, expressions, estructures de control, funcions i procediments.
+- Identificació dels elements d'un programa informàtic. Constants i variables, tipus i estructures de dades, operacions, operadors i conversions, expressions, estructures de control, funcions i procediments.
 - Operacions bàsiques amb bases de dades. Consultes, insercions i modificació.
-- Fases del cicle de vida d'una aplicació: anàlisi, disseny, codificació, proves, documentació, explotació i manteniment,
-entre altres.
+- Fases del cicle de vida d'una aplicació: anàlisi, disseny, codificació, proves, documentació, explotació i manteniment, entre altres.
 - Instal·lació i ús d'entorns de desenvolupament. Funcionalitats.
 - Eines de depuració i validació de programari. 
 - Optimització i manteniment de programari. 
@@ -69,9 +67,7 @@ Bloc 4: Serveis en xarxa.
 - Servidor de correu electrònic. Protocols d'intercanvi de missatges.
 - Certificat i signatura digital. 
 - Gestió de la identitat digital. L'empremta digital. 
-- Estratègies per a una ciberconvivència igualitària, segura i
-saludable. Etiqueta digital.
-- La privacitat en la xarxa. La protecció de les dades de caràcter
-personal. Informació i consentiment.
+- Estratègies per a una ciberconvivència igualitària, segura i saludable. Etiqueta digital.
+- La privacitat en la xarxa. La protecció de les dades de caràcter personal. Informació i consentiment.
 
 
